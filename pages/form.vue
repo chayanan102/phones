@@ -1,18 +1,18 @@
 <template>
   <v-container>
     <v-flex class="text-center">
-        <img src="https://cdn.discordapp.com/attachments/762935827121700874/762935878267568149/1plus.png"  height="80" width="80"/>
-        <img src="https://cdn.discordapp.com/attachments/762935827121700874/762935883040292874/apple.png"  height="80" width="80"/>
-        <img src="https://cdn.discordapp.com/attachments/762935827121700874/762935883715706890/ASUS.png"  height="80" width="80"/>
-        <img src="https://cdn.discordapp.com/attachments/762935827121700874/762935885863714836/nokia.png"  height="80" width="80"/>
-        <img src="https://cdn.discordapp.com/attachments/762935827121700874/762935886123761664/huawei.png"  height="80" width="80"/>
-        <img src="https://cdn.discordapp.com/attachments/762935827121700874/762935887343910912/oppo.png"  height="80" width="80"/>
-        <img src="https://cdn.discordapp.com/attachments/762935827121700874/762935889055449128/pixel.png"  height="80" width="80"/>
-        <img src="https://cdn.discordapp.com/attachments/762935827121700874/762935890376916992/realme.png"  height="80" width="80"/>
+        <img src="https://cdn.discordapp.com/attachments/762935827121700874/762935878267568149/1plus.png"  height="85" width="85"/>
+        <img src="https://cdn.discordapp.com/attachments/762935827121700874/762935883040292874/apple.png"  height="85" width="85"/>
+        <img src="https://cdn.discordapp.com/attachments/762935827121700874/762935883715706890/ASUS.png"  height="85" width="85"/>
+        <img src="https://cdn.discordapp.com/attachments/762935827121700874/762935885863714836/nokia.png"  height="85" width="85"/>
+        <img src="https://cdn.discordapp.com/attachments/762935827121700874/762935886123761664/huawei.png"  height="85" width="85"/>
+        <img src="https://cdn.discordapp.com/attachments/762935827121700874/762935887343910912/oppo.png"  height="85" width="85"/>
+        <img src="https://cdn.discordapp.com/attachments/762935827121700874/762935889055449128/pixel.png"  height="85" width="85"/>
+        <img src="https://cdn.discordapp.com/attachments/762935827121700874/762935890376916992/realme.png"  height="85" width="85"/>
         <img src="https://cdn.discordapp.com/attachments/762935827121700874/762935892046118932/samsung.png"  height="90" width="90"/>
-        <img src="https://cdn.discordapp.com/attachments/762935827121700874/762935893702606848/sony.png"  height="80" width="80"/>
-        <img src="https://cdn.discordapp.com/attachments/762935827121700874/762936137077358602/xiaomi.png"  height="80" width="80"/>
-        <img src="https://cdn.discordapp.com/attachments/762935827121700874/762936140994445342/vivo.png"  height="80" width="80"/>
+        <img src="https://cdn.discordapp.com/attachments/762935827121700874/762935893702606848/sony.png"  height="85" width="85"/>
+        <img src="https://cdn.discordapp.com/attachments/762935827121700874/762936137077358602/xiaomi.png"  height="85" width="85"/>
+        <img src="https://cdn.discordapp.com/attachments/762935827121700874/762936140994445342/vivo.png"  height="85" width="85"/>
         
 
     </v-flex>
